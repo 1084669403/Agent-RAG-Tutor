@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -216,3 +217,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+=======
+__pycache__/
+*.pyc
+*.db
+chroma_db/
+.env
+venv/
+.venv/
+.DS_Store
+>>>>>>> 717725f (Initial commit: Agent RAG Tutor)
